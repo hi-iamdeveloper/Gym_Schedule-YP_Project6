@@ -158,5 +158,7 @@ Map<Coach, Integer> load = timetable.getCountByCoaches();
 ---
 
 <p align="center">
-  <i>Проект выполнен в рамках обучения в <a href="https://practicum.yandex.ru/">Яндекс Практикуме</a></i>
+  <a href="https://practicum.yandex.ru/">
+    <img src="https://img.shields.io/badge/Обучение-Яндекс%20Практикум-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" alt="Яндекс Практикум">
+  </a>
 </p>
