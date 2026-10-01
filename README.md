@@ -154,3 +154,9 @@ Map<Coach, Integer> load = timetable.getCountByCoaches();
   - `TreeMap` — внутренняя мапа, для порядка по времени.
   - `LinkedHashMap` — сохранение порядка после сортировки.
   - `ArrayList` — список занятий в одном временном слоте.
+
+---
+
+<p align="center">
+  <i>Проект выполнен в рамках обучения в <a href="https://practicum.yandex.ru/">Яндекс Практикуме</a></i>
+</p>
